@@ -1,4 +1,6 @@
 public class ValidaUser {
+    ContaBancaria cb = new ContaBancaria();
+    archive arquivo = new archive();
     private String user;
     private int Senha;
 
@@ -14,17 +16,21 @@ public class ValidaUser {
         Senha = senha;
     }
 
-    public int ValidaConta(){
-        int retorno;
-        if(user.equals("jc")){
-            if(Senha == 123456){
-                retorno = 1;
-            } else {
-                retorno = 0;
-            }
+    public void ValidaConta(){
+        int retorno = arquivo.VerificaConta(user, Senha);
+        if (retorno == 1) {
+            System.out.println("Login feito com sucesso!");
         } else {
-            retorno = 0;
+            System.out.println("Usuário ou senha incorretos, tente novamente...");
         }
-        return retorno;
+    }
+
+    public void CriacaoConta(){
+        int retorno = arquivo.VerificaConta(user, Senha);
+        if (retorno == 1) {
+            System.out.println("Cadastro feito com sucesso!");
+        } else {
+            System.out.println("Ocorreu um erro ao cadastrar as informações, tente novamente mais tarde...");
+        }
     }
 }
