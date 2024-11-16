@@ -7,5 +7,121 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/apache-poi-src-5.3.0-20240625/apache-poi-src-5.3.0-20240625/osgi/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-poi-src-5.3.0-20240625/apache-poi-src-5.3.0-20240625/osgi/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-poi-src-5.3.0-20240625/apache-poi-src-5.3.0-20240625/poi-examples/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-poi-src-5.3.0-20240625/apache-poi-src-5.3.0-20240625/poi-examples/src/main/ruby/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-poi-src-5.3.0-20240625/apache-poi-src-5.3.0-20240625/poi-examples/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-poi-src-5.3.0-20240625/apache-poi-src-5.3.0-20240625/poi-excelant/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-poi-src-5.3.0-20240625/apache-poi-src-5.3.0-20240625/poi-excelant/src/poi-ant-contrib/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-poi-src-5.3.0-20240625/apache-poi-src-5.3.0-20240625/poi-excelant/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-poi-src-5.3.0-20240625/apache-poi-src-5.3.0-20240625/poi-integration/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-poi-src-5.3.0-20240625/apache-poi-src-5.3.0-20240625/poi-ooxml-lite-agent/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-poi-src-5.3.0-20240625/apache-poi-src-5.3.0-20240625/poi-ooxml/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-poi-src-5.3.0-20240625/apache-poi-src-5.3.0-20240625/poi-ooxml/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-poi-src-5.3.0-20240625/apache-poi-src-5.3.0-20240625/poi-scratchpad/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-poi-src-5.3.0-20240625/apache-poi-src-5.3.0-20240625/poi-scratchpad/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-poi-src-5.3.0-20240625/apache-poi-src-5.3.0-20240625/poi/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-poi-src-5.3.0-20240625/apache-poi-src-5.3.0-20240625/poi/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Program Files (x86)/poi-bin-5.2.3/poi-5.2.3.jar!/" />
+          <root url="jar://C:/Program Files (x86)/poi-bin-5.2.3/poi-examples-5.2.3.jar!/" />
+          <root url="jar://C:/Program Files (x86)/poi-bin-5.2.3/poi-excelant-5.2.3.jar!/" />
+          <root url="jar://C:/Program Files (x86)/poi-bin-5.2.3/poi-ooxml-5.2.3.jar!/" />
+          <root url="jar://C:/Program Files (x86)/poi-bin-5.2.3/poi-ooxml-full-5.2.3.jar!/" />
+          <root url="jar://C:/Program Files (x86)/poi-bin-5.2.3/poi-ooxml-lite-5.2.3.jar!/" />
+          <root url="jar://C:/Program Files (x86)/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Program Files (x86)/poi-bin-5.2.3/poi-javadoc-5.2.3.jar!/" />
+        </JAVADOC>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Program Files (x86)/commons-io-2.17.0/commons-io-2.17.0-tests.jar!/" />
+          <root url="jar://C:/Program Files (x86)/commons-io-2.17.0/commons-io-2.17.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://C:/Program Files (x86)/commons-io-2.17.0/commons-io-2.17.0-sources.jar!/" />
+          <root url="jar://C:/Program Files (x86)/commons-io-2.17.0/commons-io-2.17.0-test-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/ant-1.10.15.jar!/" />
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/ant-launcher-1.10.15.jar!/" />
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/commons-codec-1.15.jar!/" />
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/guava-33.3.0-jre.jar!/" />
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/httpclient5-5.1.3.jar!/" />
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/httpcore5-5.1.3.jar!/" />
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/httpcore5-h2-5.1.3.jar!/" />
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/javaparser-core-3.26.2.jar!/" />
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/javaparser-symbol-solver-core-3.26.2.jar!/" />
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/javassist-3.30.2-GA.jar!/" />
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/log4j-api-2.24.1.jar!/" />
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/Saxon-HE-12.5.jar!/" />
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/slf4j-api-1.7.25.jar!/" />
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/xmlbeans-5.2.2.jar!/" />
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/xmlresolver-5.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/xmlbeans-5.2.2-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Program Files (x86)/apache-xmlbeans-5.2.2/lib/xmlbeans-5.2.2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Program Files (x86)/commons-collections4-4.5.0-M2/commons-collections4-4.5.0-M2-tests.jar!/" />
+          <root url="jar://C:/Program Files (x86)/commons-collections4-4.5.0-M2/commons-collections4-4.5.0-M2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://C:/Program Files (x86)/commons-collections4-4.5.0-M2/commons-collections4-4.5.0-M2-sources.jar!/" />
+          <root url="jar://C:/Program Files (x86)/commons-collections4-4.5.0-M2/commons-collections4-4.5.0-M2-test-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Program Files (x86)/commons-compress-1.27.1/commons-compress-1.27.1-tests.jar!/" />
+          <root url="jar://C:/Program Files (x86)/commons-compress-1.27.1/commons-compress-1.27.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://C:/Program Files (x86)/commons-compress-1.27.1/commons-compress-1.27.1-sources.jar!/" />
+          <root url="jar://C:/Program Files (x86)/commons-compress-1.27.1/commons-compress-1.27.1-test-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/log4j-core-2.24.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
